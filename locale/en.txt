@@ -1,0 +1,31 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Kerala Lalithakala Akademi Art Gallery, Kalady
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_31BB1292_3BC5_0B3A_41B0_355499F0401C.label = Art Gallery, Kalady
+panorama_32503189_3BC5_0917_41B3_F0F988D50C65.label = Art Gallery, Kalady
+panorama_32504A6F_3BC5_3BEB_41B4_7A9DFB1582E7.label = Art Gallery, Kalady
+panorama_325075F2_3BC5_08F5_41C9_E1DD24456F50.label = Art Gallery, Kalady
+panorama_32507CEF_3BC4_F8EB_41AB_D8BC26290332.label = Art Gallery, Kalady
+panorama_3253A39C_3BC7_092D_41BB_98BC1FBE4A7F.label = Art Gallery, Kalady
+panorama_3253C841_3BC7_0717_41B9_191F496476B3.label = Art Gallery, Kalady
+panorama_3253CEEA_3BC7_3B15_41A1_7CE948B1F3CB.label = Art Gallery, Kalady
+panorama_325D7EFA_3BC5_18F5_4166_789FD160DDC6.label = Art Gallery, Kalady
